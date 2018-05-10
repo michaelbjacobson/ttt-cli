@@ -1,0 +1,3 @@
+%{
+  "ttt_core": {:hex, :ttt_core, "0.2.0", "dee6fb3489c292fc2d505ef2e953a07a0ee72bac2e978f4692221d2b8d93b405", [:mix], [], "hexpm"},
+}
